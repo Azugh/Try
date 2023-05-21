@@ -285,8 +285,10 @@ namespace lab3
                 {
                     List<Point> newPoints = figure.CurvePoints;
                     Point[] dynamicPoints = newPoints.ToArray();
-                    g.DrawCurve(new Pen(figure.LineColor, figure.LineThickness), dynamicPoints);
-                    g.DrawCurve(new Pen(figure.LineColor, figure.LineThickness), new[] { newPoints[0], newPoints[newPoints.Count() - 1] });
+                    if (newPoints.Count < 2) return;
+                    g.DrawCurve(new Pen(figure.LineColor, figure.LineThickness), newPoints.ToArray());
+                    /*g.DrawCurve(new Pen(figure.LineColor, figure.LineThickness), dynamicPoints);
+                    g.DrawCurve(new Pen(figure.LineColor, figure.LineThickness), new[] { newPoints[0], newPoints[newPoints.Count() - 1] });*/
                 }
             }
 

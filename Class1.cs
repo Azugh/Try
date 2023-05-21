@@ -496,6 +496,7 @@ class Curve : Figure
     private Color black = Color.Black;
     private Color white = Color.White;
 
+    List<Point> points = new List<Point>();
     List<Point> curvePoints = new List<Point>();
 
     public Curve(Point point1, Point point2) : base(point1, point2) { }
@@ -536,9 +537,9 @@ class Curve : Figure
         figures.Add(fig);
         Console.WriteLine(figures[0].CurvePoints.Count());
 
-       /* DrawFigure(g, new Pen(lineColor, lineThickness), curvePoints[0], curvePoints[curvePoints.Count() - 1], lineThickness, 0, 0);*/
+        g.DrawLine(new Pen(lineColor, lineThickness), points[0], points.Last());
 
-        curvePoints.Clear();
+        points.Clear();
     }
 
     public override void DrawDash(Graphics g, Point point2, List<Figure> figures, Color lineColor, float lineThickness, Color fillColor, int hW, int hH)
@@ -559,6 +560,8 @@ class Curve : Figure
                 Pen pen = new Pen(figure.LineColor, figure.LineThickness);
 
                 g.DrawLine(pen, figure.point1.X + hW, figure.point1.Y + hH, figure.point2.X + hW, figure.point2.Y + hH);
+
+           
             }
             else if (figure.FigureType == "Rect")
             {
@@ -593,13 +596,14 @@ class Curve : Figure
                 Brush brush = new SolidBrush(figure.FillColor);
                 g.FillEllipse(brush, figure.point1.X + hW, figure.point1.Y + hH, width, height);
             }
-           
-             /*{
-                 List<Point> newPoints = figure.CurvePoints;
-                 Point[] dynamicPoints = newPoints.ToArray();
-                 g.DrawCurve(new Pen(figure.LineColor, figure.LineThickness), dynamicPoints);
-                 g.DrawCurve(new Pen(figure.LineColor, figure.LineThickness), new[] { newPoints[0], newPoints[newPoints.Count() - 1] });
-             }*/
+
+            {
+                List<Point> newPoints = curvePoints;
+                if (newPoints.Count < 2) return;
+                g.DrawCurve(new Pen(figure.LineColor, figure.LineThickness), newPoints.ToArray());
+                /*g.DrawCurve(new Pen(figure.LineColor, figure.LineThickness), dynamicPoints);
+                g.DrawCurve(new Pen(figure.LineColor, figure.LineThickness), new[] { newPoints[0], newPoints[newPoints.Count() - 1] });*/
+            }
         }
     }
 
@@ -611,13 +615,13 @@ class Curve : Figure
     public override void MouseMove(Graphics g, Point point2, List<Figure> figures, Color lineColor, float lineThickness, Color fillColor, int hW, int hH)
     {
         curvePoints.Add(point2);
+        points.Add(point2);
 
         NewDraw(g, figures, hW, hH);
-        Point[] dynamicPoints = curvePoints.ToArray();
 
        
-            if (curvePoints.Count < 2) return;
-            g.DrawCurve(new Pen(lineColor, lineThickness), curvePoints.ToArray());
+            if (points.Count < 2) return;
+            g.DrawCurve(new Pen(lineColor, lineThickness), points.ToArray());
       
     }
 }
