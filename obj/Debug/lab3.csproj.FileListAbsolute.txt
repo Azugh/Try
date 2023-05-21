@@ -1,0 +1,94 @@
+F:\lab3\bin\Debug\lab3.exe.config
+F:\lab3\bin\Debug\lab3.exe
+F:\lab3\bin\Debug\lab3.pdb
+F:\lab3\obj\Debug\lab3.csproj.AssemblyReference.cache
+F:\lab3\obj\Debug\lab3.Form1.resources
+F:\lab3\obj\Debug\lab3.Properties.Resources.resources
+F:\lab3\obj\Debug\lab3.csproj.GenerateResource.cache
+F:\lab3\obj\Debug\lab3.csproj.CoreCompileInputs.cache
+F:\lab3\obj\Debug\lab3.exe
+F:\lab3\obj\Debug\lab3.pdb
+C:\Users\t1002\Desktop\lab3\bin\Debug\lab3.exe.config
+C:\Users\t1002\Desktop\lab3\bin\Debug\lab3.exe
+C:\Users\t1002\Desktop\lab3\bin\Debug\lab3.pdb
+C:\Users\t1002\Desktop\lab3\obj\Debug\lab3.csproj.AssemblyReference.cache
+C:\Users\t1002\Desktop\lab3\obj\Debug\lab3.csproj.SuggestedBindingRedirects.cache
+C:\Users\t1002\Desktop\lab3\obj\Debug\lab3.Form1.resources
+C:\Users\t1002\Desktop\lab3\obj\Debug\lab3.Properties.Resources.resources
+C:\Users\t1002\Desktop\lab3\obj\Debug\lab3.csproj.GenerateResource.cache
+C:\Users\t1002\Desktop\lab3\obj\Debug\lab3.csproj.CoreCompileInputs.cache
+C:\Users\t1002\Desktop\lab3\obj\Debug\lab3.exe
+C:\Users\t1002\Desktop\lab3\obj\Debug\lab3.pdb
+C:\Users\Student\Desktop\lab3\bin\Debug\lab3.exe.config
+C:\Users\Student\Desktop\lab3\bin\Debug\lab3.exe
+C:\Users\Student\Desktop\lab3\bin\Debug\lab3.pdb
+C:\Users\Student\Desktop\lab3\obj\Debug\lab3.csproj.AssemblyReference.cache
+C:\Users\Student\Desktop\lab3\obj\Debug\lab3.Form1.resources
+C:\Users\Student\Desktop\lab3\obj\Debug\lab3.Properties.Resources.resources
+C:\Users\Student\Desktop\lab3\obj\Debug\lab3.csproj.GenerateResource.cache
+C:\Users\Student\Desktop\lab3\obj\Debug\lab3.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\lab3\obj\Debug\lab3.exe
+C:\Users\Student\Desktop\lab3\obj\Debug\lab3.pdb
+C:\Users\Student\Desktop\lab3\obj\Debug\lab3.Form2.resources
+F:\новая лаба сиострый\lab3\bin\Debug\lab3.exe.config
+F:\новая лаба сиострый\lab3\bin\Debug\lab3.exe
+F:\новая лаба сиострый\lab3\bin\Debug\lab3.pdb
+F:\новая лаба сиострый\lab3\obj\Debug\lab3.csproj.AssemblyReference.cache
+F:\новая лаба сиострый\lab3\obj\Debug\lab3.Form1.resources
+F:\новая лаба сиострый\lab3\obj\Debug\lab3.Form2.resources
+F:\новая лаба сиострый\lab3\obj\Debug\lab3.Properties.Resources.resources
+F:\новая лаба сиострый\lab3\obj\Debug\lab3.csproj.GenerateResource.cache
+F:\новая лаба сиострый\lab3\obj\Debug\lab3.csproj.CoreCompileInputs.cache
+F:\новая лаба сиострый\lab3\obj\Debug\lab3.exe
+F:\новая лаба сиострый\lab3\obj\Debug\lab3.pdb
+C:\Users\maste\Downloads\lab3-20230426T152949Z-001\lab3\bin\Debug\lab3.exe.config
+C:\Users\maste\Downloads\lab3-20230426T152949Z-001\lab3\bin\Debug\lab3.exe
+C:\Users\maste\Downloads\lab3-20230426T152949Z-001\lab3\bin\Debug\lab3.pdb
+C:\Users\maste\Downloads\lab3-20230426T152949Z-001\lab3\obj\Debug\lab3.csproj.AssemblyReference.cache
+C:\Users\maste\Downloads\lab3-20230426T152949Z-001\lab3\obj\Debug\lab3.csproj.SuggestedBindingRedirects.cache
+C:\Users\maste\Downloads\lab3-20230426T152949Z-001\lab3\obj\Debug\lab3.Form1.resources
+C:\Users\maste\Downloads\lab3-20230426T152949Z-001\lab3\obj\Debug\lab3.Form2.resources
+C:\Users\maste\Downloads\lab3-20230426T152949Z-001\lab3\obj\Debug\lab3.Properties.Resources.resources
+C:\Users\maste\Downloads\lab3-20230426T152949Z-001\lab3\obj\Debug\lab3.csproj.GenerateResource.cache
+C:\Users\maste\Downloads\lab3-20230426T152949Z-001\lab3\obj\Debug\lab3.csproj.CoreCompileInputs.cache
+C:\Users\maste\Downloads\lab3-20230426T152949Z-001\lab3\obj\Debug\lab3.exe
+C:\Users\maste\Downloads\lab3-20230426T152949Z-001\lab3\obj\Debug\lab3.pdb
+F:\file\lab3\bin\Debug\lab3.exe.config
+F:\file\lab3\bin\Debug\lab3.exe
+F:\file\lab3\bin\Debug\lab3.pdb
+F:\file\lab3\obj\Debug\lab3.csproj.AssemblyReference.cache
+F:\file\lab3\obj\Debug\lab3.Form1.resources
+F:\file\lab3\obj\Debug\lab3.Form2.resources
+F:\file\lab3\obj\Debug\lab3.Properties.Resources.resources
+F:\file\lab3\obj\Debug\lab3.csproj.GenerateResource.cache
+F:\file\lab3\obj\Debug\lab3.csproj.CoreCompileInputs.cache
+F:\file\lab3\obj\Debug\lab3.exe
+F:\file\lab3\obj\Debug\lab3.pdb
+E:\file\lab3\bin\Debug\lab3.exe.config
+E:\file\lab3\bin\Debug\lab3.exe
+E:\file\lab3\bin\Debug\lab3.pdb
+E:\file\lab3\obj\Debug\lab3.csproj.AssemblyReference.cache
+E:\file\lab3\obj\Debug\lab3.csproj.SuggestedBindingRedirects.cache
+E:\file\lab3\obj\Debug\lab3.Form1.resources
+E:\file\lab3\obj\Debug\lab3.Form2.resources
+E:\file\lab3\obj\Debug\lab3.Properties.Resources.resources
+E:\file\lab3\obj\Debug\lab3.csproj.GenerateResource.cache
+E:\file\lab3\obj\Debug\lab3.csproj.CoreCompileInputs.cache
+E:\file\lab3\obj\Debug\lab3.exe
+E:\file\lab3\obj\Debug\lab3.pdb
+E:\file\lab3\obj\Debug\lab3.NewPicture.resources
+F:\file\lab3\obj\Debug\lab3.NewPicture.resources
+G:\file\lab3\bin\Debug\lab3.exe.config
+G:\file\lab3\bin\Debug\lab3.exe
+G:\file\lab3\bin\Debug\lab3.pdb
+G:\file\lab3\obj\Debug\lab3.csproj.AssemblyReference.cache
+G:\file\lab3\obj\Debug\lab3.Form1.resources
+G:\file\lab3\obj\Debug\lab3.Form2.resources
+G:\file\lab3\obj\Debug\lab3.NewPicture.resources
+G:\file\lab3\obj\Debug\lab3.Properties.Resources.resources
+G:\file\lab3\obj\Debug\lab3.csproj.GenerateResource.cache
+G:\file\lab3\obj\Debug\lab3.csproj.CoreCompileInputs.cache
+G:\file\lab3\obj\Debug\lab3.exe
+G:\file\lab3\obj\Debug\lab3.pdb
+C:\Users\t1002\Desktop\lab3\obj\Debug\lab3.Form2.resources
+C:\Users\t1002\Desktop\lab3\obj\Debug\lab3.NewPicture.resources
